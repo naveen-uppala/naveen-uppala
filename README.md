@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naveen Uppala</h1>
+<h1 align="center">Hi <img src="https://github.com/naveen-uppala/naveen-uppala/blob/main/Hi.gif?raw=true" alt="DevOps GIF" width="30">, I'm Naveen Uppala</h1>
 <h3 align="center">A passionate AWS Devops Engineer from Hyderabad, India</h3>
 
 - 🔭 I’m currently working on **Container Orchestrations tools**
